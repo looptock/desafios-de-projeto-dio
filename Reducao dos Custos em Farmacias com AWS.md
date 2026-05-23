@@ -39,4 +39,4 @@ A implementação de ferramentas na empresa *[nome da empresa=] Abstergo Pharmac
 <br>
 
 #### Assinatura do Responsável pelo Projeto: 
-@venelouis
+@looptock
